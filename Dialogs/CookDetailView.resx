@@ -112,106 +112,406 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lStuffThree.Text" xml:space="preserve">
-    <value>StuffName3</value>
-  </data>
-  <data name="&gt;&gt;lStuffThreePrice.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bModFav.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="lEffects.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 34</value>
-  </data>
-  <data name="&gt;&gt;toolStripSeparator2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lPicture.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="lEffects.Text" xml:space="preserve">
-    <value>Infomation</value>
-  </data>
-  <data name="bDisplayRatio.Size" type="System.Drawing.Size, System.Drawing">
-    <value>23, 22</value>
-  </data>
-  <data name="pDisplayInfo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 62</value>
-  </data>
-  <data name="lPicture.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 25</value>
-  </data>
-  <data name="&gt;&gt;lStuffThree.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="lStuffOnePrice.Text" xml:space="preserve">
-    <value>Price1</value>
-  </data>
-  <data name="&gt;&gt;pDisplayInfo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bDisplayRatio.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lRank.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lStuffTwo.AutoSize" type="System.Boolean, mscorlib">
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lStuffThreePrice.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;lRank.ZOrder" xml:space="preserve">
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lStuffThreePrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>80, 43</value>
+  </data>
+  <data name="lStuffThreePrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 15</value>
+  </data>
+  <data name="lStuffThreePrice.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
-  <data name="&gt;&gt;tiCheckAlert.Name" xml:space="preserve">
-    <value>tiCheckAlert</value>
+  <data name="lStuffThreePrice.Text" xml:space="preserve">
+    <value>Price3</value>
   </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Malgun Gothic, 9pt</value>
+  <data name="&gt;&gt;lStuffThreePrice.Name" xml:space="preserve">
+    <value>lStuffThreePrice</value>
   </data>
-  <data name="&gt;&gt;lEffects.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;lStuffThreePrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lMessage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lStuffThreePrice.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>자세히 보기</value>
+  <data name="&gt;&gt;lStuffThreePrice.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="lEffects.Location" type="System.Drawing.Point, System.Drawing">
-    <value>72, 86</value>
+  <data name="lStuffTwoPrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;pAlertShowing.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="lStuffTwoPrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>80, 23</value>
   </data>
-  <data name="&gt;&gt;pAlertShowing.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="lStuffTwoPrice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 15</value>
   </data>
-  <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>6, 25</value>
+  <data name="lStuffTwoPrice.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
-  <data name="&gt;&gt;lStuffOnePrice.Name" xml:space="preserve">
-    <value>lStuffOnePrice</value>
+  <data name="lStuffTwoPrice.Text" xml:space="preserve">
+    <value>Price2</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwoPrice.Name" xml:space="preserve">
+    <value>lStuffTwoPrice</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwoPrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwoPrice.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwoPrice.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lStuffOnePrice.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lStuffOnePrice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>80, 3</value>
   </data>
   <data name="lStuffOnePrice.Size" type="System.Drawing.Size, System.Drawing">
     <value>40, 15</value>
   </data>
+  <data name="lStuffOnePrice.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lStuffOnePrice.Text" xml:space="preserve">
+    <value>Price1</value>
+  </data>
+  <data name="&gt;&gt;lStuffOnePrice.Name" xml:space="preserve">
+    <value>lStuffOnePrice</value>
+  </data>
+  <data name="&gt;&gt;lStuffOnePrice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lStuffOnePrice.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lStuffOnePrice.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lStuffThree.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lStuffThree.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
+    <value>0, 0</value>
+  </data>
+  <data name="lStuffThree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 43</value>
+  </data>
+  <data name="lStuffThree.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 15</value>
+  </data>
+  <data name="lStuffThree.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lStuffThree.Text" xml:space="preserve">
+    <value>StuffName3</value>
+  </data>
+  <data name="&gt;&gt;lStuffThree.Name" xml:space="preserve">
+    <value>lStuffThree</value>
+  </data>
+  <data name="&gt;&gt;lStuffThree.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lStuffThree.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lStuffThree.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lStuffTwo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lStuffTwo.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
+    <value>0, 0</value>
+  </data>
+  <data name="lStuffTwo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 23</value>
+  </data>
+  <data name="lStuffTwo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 15</value>
+  </data>
+  <data name="lStuffTwo.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lStuffTwo.Text" xml:space="preserve">
+    <value>StuffName2</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwo.Name" xml:space="preserve">
+    <value>lStuffTwo</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwo.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lStuffTwo.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lStuffOne.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lStuffOne.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
+    <value>0, 0</value>
+  </data>
+  <data name="lStuffOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="lStuffOne.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 15</value>
+  </data>
+  <data name="lStuffOne.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lStuffOne.Text" xml:space="preserve">
+    <value>StuffName1</value>
+  </data>
+  <data name="&gt;&gt;lStuffOne.Name" xml:space="preserve">
+    <value>lStuffOne</value>
+  </data>
+  <data name="&gt;&gt;lStuffOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lStuffOne.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lStuffOne.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lRank.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lRank.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 27.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="lRank.Location" type="System.Drawing.Point, System.Drawing">
+    <value>196, 13</value>
+  </data>
+  <data name="lRank.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="lRank.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 45</value>
+  </data>
+  <data name="lRank.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lRank.Text" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="&gt;&gt;lRank.Name" xml:space="preserve">
+    <value>lRank</value>
+  </data>
+  <data name="&gt;&gt;lRank.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lRank.Parent" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;lRank.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pDisplayInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 25</value>
+  </data>
+  <data name="pDisplayInfo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="pDisplayInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>250, 62</value>
+  </data>
+  <data name="pDisplayInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pDisplayInfo.Name" xml:space="preserve">
+    <value>pDisplayInfo</value>
+  </data>
+  <data name="&gt;&gt;pDisplayInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pDisplayInfo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pDisplayInfo.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lPicture.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 25</value>
+  </data>
+  <data name="lPicture.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="lPicture.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 96</value>
+  </data>
+  <data name="lPicture.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lPicture.Name" xml:space="preserve">
+    <value>lPicture</value>
+  </data>
+  <data name="&gt;&gt;lPicture.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lPicture.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lPicture.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="tiCheckAlert.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="pAlertShowing.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>225, 15</value>
+  </metadata>
+  <data name="lMessage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 17</value>
+  </data>
+  <data name="lMessage.Text" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="pAlertShowing.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 121</value>
+  </data>
+  <data name="pAlertShowing.Size" type="System.Drawing.Size, System.Drawing">
+    <value>324, 22</value>
+  </data>
+  <data name="pAlertShowing.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="pAlertShowing.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;pAlertShowing.Name" xml:space="preserve">
+    <value>pAlertShowing</value>
+  </data>
+  <data name="&gt;&gt;pAlertShowing.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pAlertShowing.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pAlertShowing.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lEffects.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Malgun Gothic, 8.25pt</value>
+  </data>
+  <data name="lEffects.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 86</value>
+  </data>
+  <data name="lEffects.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="lEffects.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
+    <value>ForcedHorizontal</value>
+  </data>
+  <data name="lEffects.Size" type="System.Drawing.Size, System.Drawing">
+    <value>250, 34</value>
+  </data>
+  <data name="lEffects.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lEffects.Text" xml:space="preserve">
+    <value>Infomation</value>
+  </data>
+  <data name="&gt;&gt;lEffects.Name" xml:space="preserve">
+    <value>lEffects</value>
+  </data>
+  <data name="&gt;&gt;lEffects.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lEffects.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lEffects.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="bBack.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
+  </data>
+  <data name="bBack.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 22</value>
+  </data>
+  <data name="bBack.Text" xml:space="preserve">
+    <value>이전 요리 보기</value>
+  </data>
+  <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>6, 25</value>
+  </data>
+  <data name="bDisplayRatio.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
+  </data>
+  <data name="bDisplayRatio.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 22</value>
+  </data>
+  <data name="bDisplayRatio.Text" xml:space="preserve">
+    <value>비율보기</value>
+  </data>
+  <data name="bModFav.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
+  </data>
+  <data name="bModFav.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 22</value>
+  </data>
+  <data name="bModFav.Text" xml:space="preserve">
+    <value>즐겨찾기</value>
+  </data>
+  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>129, 17</value>
+  </metadata>
+  <data name="toolStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="toolStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>324, 25</value>
+  </data>
+  <data name="toolStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="toolStrip1.Text" xml:space="preserve">
+    <value>toolStrip1</value>
+  </data>
+  <data name="&gt;&gt;toolStrip1.Name" xml:space="preserve">
+    <value>toolStrip1</value>
+  </data>
+  <data name="&gt;&gt;toolStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toolStrip1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>7, 15</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>324, 143</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Malgun Gothic, 9pt</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -349,352 +649,55 @@
         rEEAAKxBAACsQQAArEEAAKxBAACsQf//rEE=
 </value>
   </data>
-  <data name="pDisplayInfo.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;lStuffThreePrice.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
   </data>
-  <data name="pAlertShowing.Text" xml:space="preserve">
-    <value>statusStrip1</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>자세히 보기</value>
   </data>
-  <data name="lMessage.Text" xml:space="preserve">
-    <value>Message</value>
-  </data>
-  <data name="lStuffTwoPrice.Text" xml:space="preserve">
-    <value>Price2</value>
-  </data>
-  <data name="&gt;&gt;lStuffOnePrice.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lStuffOnePrice.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lEffects.Name" xml:space="preserve">
-    <value>lEffects</value>
-  </data>
-  <data name="&gt;&gt;lPicture.Name" xml:space="preserve">
-    <value>lPicture</value>
-  </data>
-  <data name="toolStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;toolStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lStuffTwoPrice.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 15</value>
-  </data>
-  <data name="lRank.Text" xml:space="preserve">
-    <value>P</value>
-  </data>
-  <data name="&gt;&gt;lPicture.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwoPrice.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lStuffThree.Name" xml:space="preserve">
-    <value>lStuffThree</value>
-  </data>
-  <data name="lStuffThreePrice.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 43</value>
-  </data>
-  <data name="lStuffOnePrice.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="lStuffThree.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 15</value>
-  </data>
-  <data name="&gt;&gt;lStuffThree.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="lStuffTwo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 23</value>
-  </data>
-  <data name="bModFav.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value>Magenta</value>
-  </data>
-  <data name="lStuffOne.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 15</value>
-  </data>
-  <data name="lStuffTwo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 15</value>
-  </data>
-  <data name="bBack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>23, 22</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>CookDetailView</value>
-  </data>
-  <data name="lStuffOne.Text" xml:space="preserve">
-    <value>StuffName1</value>
-  </data>
-  <data name="&gt;&gt;toolStripSeparator2.Name" xml:space="preserve">
-    <value>toolStripSeparator2</value>
-  </data>
-  <data name="pAlertShowing.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pDisplayInfo.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;lPicture.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lStuffThree.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;lStuffOne.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="lStuffOne.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;lStuffOne.Name" xml:space="preserve">
-    <value>lStuffOne</value>
-  </data>
-  <data name="lEffects.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="lEffects.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="pDisplayInfo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="lStuffThreePrice.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 15</value>
-  </data>
-  <data name="bBack.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value>Magenta</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwoPrice.Name" xml:space="preserve">
-    <value>lStuffTwoPrice</value>
-  </data>
-  <data name="lRank.Location" type="System.Drawing.Point, System.Drawing">
-    <value>186, 13</value>
-  </data>
-  <data name="bDisplayRatio.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value>Magenta</value>
-  </data>
-  <data name="lPicture.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="lRank.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Verdana, 27.75pt, style=Bold, Italic</value>
-  </data>
-  <data name="&gt;&gt;toolStrip1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;lStuffOne.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lStuffTwo.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="lPicture.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;lEffects.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lEffects.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
-    <value>ForcedHorizontal</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwo.Name" xml:space="preserve">
-    <value>lStuffTwo</value>
-  </data>
-  <data name="&gt;&gt;toolStrip1.Name" xml:space="preserve">
-    <value>toolStrip1</value>
-  </data>
-  <data name="bDisplayRatio.Text" xml:space="preserve">
-    <value>비율보기</value>
-  </data>
-  <data name="&gt;&gt;pDisplayInfo.Name" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="&gt;&gt;pAlertShowing.Name" xml:space="preserve">
-    <value>pAlertShowing</value>
+  <data name="&gt;&gt;tiCheckAlert.Name" xml:space="preserve">
+    <value>tiCheckAlert</value>
   </data>
   <data name="&gt;&gt;tiCheckAlert.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pAlertShowing.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwoPrice.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="lRank.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 45</value>
-  </data>
-  <data name="lMessage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 18</value>
-  </data>
-  <data name="pAlertShowing.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 120</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwo.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="lStuffOne.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;lMessage.Name" xml:space="preserve">
     <value>lMessage</value>
   </data>
-  <data name="lRank.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;bModFav.Name" xml:space="preserve">
-    <value>bModFav</value>
-  </data>
-  <data name="&gt;&gt;lStuffOnePrice.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="lRank.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="lStuffTwoPrice.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 23</value>
-  </data>
-  <data name="bModFav.Text" xml:space="preserve">
-    <value>즐겨찾기</value>
-  </data>
-  <data name="lStuffThree.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;pDisplayInfo.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="lStuffOne.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="toolStrip1.Text" xml:space="preserve">
-    <value>toolStrip1</value>
-  </data>
-  <data name="lStuffOnePrice.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 3</value>
-  </data>
-  <data name="lStuffThreePrice.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="bBack.Text" xml:space="preserve">
-    <value>이전 요리 보기</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lStuffOne.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="pDisplayInfo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>72, 25</value>
-  </data>
-  <data name="lStuffOne.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
-  </data>
-  <data name="pAlertShowing.Size" type="System.Drawing.Size, System.Drawing">
-    <value>314, 23</value>
-  </data>
-  <data name="lEffects.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Malgun Gothic, 8.25pt</value>
-  </data>
-  <data name="toolStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwoPrice.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;lMessage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;bBack.Name" xml:space="preserve">
     <value>bBack</value>
   </data>
-  <data name="lStuffThreePrice.Text" xml:space="preserve">
-    <value>Price3</value>
+  <data name="&gt;&gt;bBack.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;toolStripSeparator2.Name" xml:space="preserve">
+    <value>toolStripSeparator2</value>
   </data>
-  <data name="lStuffTwo.Text" xml:space="preserve">
-    <value>StuffName2</value>
-  </data>
-  <data name="&gt;&gt;lEffects.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lRank.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="&gt;&gt;lStuffThree.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lStuffTwoPrice.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="toolStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>314, 25</value>
-  </data>
-  <data name="lStuffTwoPrice.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="lRank.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="lStuffTwo.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
-    <value>0, 0</value>
-  </data>
-  <data name="bModFav.Size" type="System.Drawing.Size, System.Drawing">
-    <value>23, 22</value>
-  </data>
-  <data name="&gt;&gt;lStuffThreePrice.Parent" xml:space="preserve">
-    <value>pDisplayInfo</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>314, 143</value>
-  </data>
-  <data name="&gt;&gt;lStuffTwo.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;toolStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;toolStripSeparator2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;bDisplayRatio.Name" xml:space="preserve">
     <value>bDisplayRatio</value>
   </data>
-  <data name="lStuffThreePrice.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="&gt;&gt;bDisplayRatio.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lStuffThree.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 43</value>
+  <data name="&gt;&gt;bModFav.Name" xml:space="preserve">
+    <value>bModFav</value>
   </data>
-  <data name="lStuffThree.LinkArea" type="System.Windows.Forms.LinkArea, System.Windows.Forms">
-    <value>0, 0</value>
+  <data name="&gt;&gt;bModFav.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lStuffOnePrice.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>CookDetailView</value>
   </data>
-  <data name="&gt;&gt;lRank.Name" xml:space="preserve">
-    <value>lRank</value>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;bBack.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lStuffThreePrice.Name" xml:space="preserve">
-    <value>lStuffThreePrice</value>
-  </data>
-  <data name="lPicture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 96</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="pAlertShowing.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>225, 15</value>
-  </metadata>
-  <metadata name="tiCheckAlert.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>129, 17</value>
-  </metadata>
 </root>
